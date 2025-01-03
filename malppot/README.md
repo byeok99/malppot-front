@@ -1,3 +1,4 @@
+```
 src/
 │
 ├── assets/          # 이미지, 폰트, 3D 모델 파일 등 정적 리소스
@@ -29,3 +30,4 @@ src/
 ├── index.js         # 진입점
 └── routes/          # 라우팅 관련 설정
     └── AppRoutes.jsx
+```
