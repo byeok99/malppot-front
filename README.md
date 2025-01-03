@@ -16,7 +16,9 @@ git clone https://github.com/byeok99/malppot-front.git
 또는 zip파일로 다운받아서 압축을 풀어도 됩니다.
 
 ### 패키지 설치하기
-
+```bash 
+npm install
+```
 
 ## git
 
